@@ -7,7 +7,7 @@ Creator: John Zachary Abella
 3.GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 4. runanalysis.R
 
-#Attached Files
+# Attached Files
 datafiles.zip
 readme.md
 runanalysis.R
